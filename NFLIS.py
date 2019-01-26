@@ -58,7 +58,7 @@ plot_args = [{'c': 'red', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '--'}]
 
-#This sorts by years and states
+#This is a bar graph sorts by years and states
 def bar1():
     # just change this number to change how many it shows
     index = 50
@@ -74,7 +74,7 @@ def bar1():
                 plt.tight_layout()
                 plt.show()
 
-#This sorts by years
+#This is a bar graph sorts by years
 def bar2():
     index = 50
     for year in years:
@@ -90,8 +90,30 @@ def bar2():
                     plt.tight_layout()
                     plt.show()
 
+#This is a histogram by state and year
+def bar3():
+    for year in years:
+        for state in states:
+            data = df.loc[(df['YYYY'] == year) & (df["State"] == state)]
+            ax = data.hist(column='TotalDrugReportsCounty', bins=50 )
+            plt.title("Total Drug Reports For {} in {}".format(state, year))
+            plt.tick_params(labelsize=5)
+            plt.tight_layout()
+            plt.savefig('{}_{}'.format(year, state))
+
+#This is a histogram year
+def bar4():
+    for year in years:
+        data = df.loc[(df['YYYY'] == year)]
+        ax = data.hist(column='TotalDrugReportsCounty', bins=50)
+        plt.title("Total Drug Reports In {}".format(year))
+        plt.tick_params(labelsize=5)
+        plt.tight_layout()
+        plt.savefig("{}".format(year))
 
 #report1()
 #report2()
-bar1()
+#bar1()
 #bar2()
+bar3()
+bar4()
