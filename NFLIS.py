@@ -58,7 +58,28 @@ plot_args = [{'c': 'red', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '--'}]
 
+def bar1():
+    for year in years:
+        fig, ax = plt.subplots()
+        graph = []
+        for county in counties:
+            TDRC = np.array(df.loc[(df["YYYY"] == year) & (df["FIPS_Combined"] == county), "TotalDrugReportsCounty"])
+            if TDRC.size != 0:
+                graph.append(TDRC[0])
+        plt.bar(counties.size, graph)
+        plt.xticks(counties, counties)
+        plt.show()
+
+def bar2():
+    for year in years:
+        for state in states:
+            data = df.loc[(df['YYYY'] == year) & (df["State"] == state)]
+            ax = data.plot.bar(x='FIPS_Combined', y='TotalDrugReportsCounty')
+            plt.title("Total Drug Reports For {}".format(state))
+            plt.tight_layout()
+            plt.show()
 
 
-report1()
+#report1()
 #report2()
+bar2()
