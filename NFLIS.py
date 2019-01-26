@@ -58,28 +58,40 @@ plot_args = [{'c': 'red', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '-'},
              {'c': 'black', 'linestyle': '--'}]
 
+#This sorts by years and states
 def bar1():
+    # just change this number to change how many it shows
+    index = 50
     for year in years:
-        fig, ax = plt.subplots()
-        graph = []
-        for county in counties:
-            TDRC = np.array(df.loc[(df["YYYY"] == year) & (df["FIPS_Combined"] == county), "TotalDrugReportsCounty"])
-            if TDRC.size != 0:
-                graph.append(TDRC[0])
-        plt.bar(counties.size, graph)
-        plt.xticks(counties, counties)
-        plt.show()
+        data = df.loc[(df['YYYY'] == year)]
+        for i in range(index, 3500, index):
+            data = data.loc[(data["TotalDrugReportsCounty"] <= i) & (data["TotalDrugReportsCounty"] >= i-index)]
+            data = data.sort_values('TotalDrugReportsCounty', ascending = True)
+            if not data.empty:
+                ax = data.plot.bar(x='FIPS_Combined', y='TotalDrugReportsCounty', )
+                plt.title("Total Drug Reports In {}".format(year))
+                plt.tick_params(labelsize=5)
+                plt.tight_layout()
+                plt.show()
 
+#This sorts by years
 def bar2():
+    index = 50
     for year in years:
         for state in states:
             data = df.loc[(df['YYYY'] == year) & (df["State"] == state)]
-            ax = data.plot.bar(x='FIPS_Combined', y='TotalDrugReportsCounty')
-            plt.title("Total Drug Reports For {}".format(state))
-            plt.tight_layout()
-            plt.show()
+            for i in range(index, 3500, index):
+                data = data.loc[(data["TotalDrugReportsCounty"] <= i) & (data["TotalDrugReportsCounty"] >= i-index)]
+                data = data.sort_values('TotalDrugReportsCounty', ascending = True)
+                if not data.empty:
+                    ax = data.plot.bar(x='FIPS_Combined', y='TotalDrugReportsCounty', )
+                    plt.title("Total Drug Reports For {} in {}".format(state, year))
+                    plt.tick_params(labelsize=5)
+                    plt.tight_layout()
+                    plt.show()
 
 
 #report1()
 #report2()
-bar2()
+bar1()
+#bar2()
