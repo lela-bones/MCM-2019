@@ -21,5 +21,5 @@ for substance in substances:
                 #picking the data we need from specific states, counties, drugs, etc.
                 dr = np.array(df.loc[(df["State"] == state) & (df["COUNTY"] == county) & (df["SubstanceName"] == substance) & (df["YYYY"] == year), "DrugReports"])
                 print(county, ", Drug Reports = ", dr)
-                #appending data to array
+                #a
                 data.append(dr)
