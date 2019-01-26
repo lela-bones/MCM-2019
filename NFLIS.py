@@ -95,7 +95,7 @@ def bar3():
     for year in years:
         for state in states:
             data = df.loc[(df['YYYY'] == year) & (df["State"] == state)]
-            ax = data.hist(column='TotalDrugReportsCounty', bins=50 )
+            ax = data.hist(column='TotalDrugReportsCounty', bins=1000)
             plt.title("Total Drug Reports For {} in {}".format(state, year))
             plt.tick_params(labelsize=5)
             plt.tight_layout()
@@ -105,7 +105,7 @@ def bar3():
 def bar4():
     for year in years:
         data = df.loc[(df['YYYY'] == year)]
-        ax = data.hist(column='TotalDrugReportsCounty', bins=50)
+        ax = data.hist(column='TotalDrugReportsCounty', bins=1000)
         plt.title("Total Drug Reports In {}".format(year))
         plt.tick_params(labelsize=5)
         plt.tight_layout()
