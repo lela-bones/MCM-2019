@@ -443,23 +443,8 @@
 51199, Drug Reports = 215
 39171, Drug Reports = 4
 54105, Drug Reports = 12
-54021, Drug Reports = 0 
-54027, Drug Reports = 0 
-39067, Drug Reports = 0 
-21105, Drug Reports = 0 
 51181, Drug Reports = 13
-54041, Drug Reports = 0 
-51131, Drug Reports = 0 
-54071, Drug Reports = 0 
-54073, Drug Reports = 0 
-54101, Drug Reports = 0 
-21225, Drug Reports = 0 
-54091, Drug Reports = 0 
-51036, Drug Reports = 0 
-51097, Drug Reports = 0 
-21091, Drug Reports = 0 
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2011
 51001, Drug Reports = 164
 39001, Drug Reports = 314
@@ -496,16 +481,13 @@
 39017, Drug Reports = 1849
 42019, Drug Reports = 403
 54011, Drug Reports = 804
-54013, Drug Reports = 0 
 42021, Drug Reports = 655
-42023, Drug Reports = 0 
 42025, Drug Reports = 306
 51033, Drug Reports = 260
 21041, Drug Reports = 125
 39019, Drug Reports = 98
 21043, Drug Reports = 306
 21045, Drug Reports = 114
-51540, Drug Reports = 0 
 51550, Drug Reports = 12
 42029, Drug Reports = 2189
 51041, Drug Reports = 1586
@@ -514,14 +496,12 @@
 42033, Drug Reports = 199
 39025, Drug Reports = 890
 39027, Drug Reports = 360
-51570, Drug Reports = 0 
 42037, Drug Reports = 367
 39029, Drug Reports = 365
 39033, Drug Reports = 174
 42039, Drug Reports = 381
 21055, Drug Reports = 37
 39035, Drug Reports = 3754
-51590, Drug Reports = 0 
 42043, Drug Reports = 2514
 21059, Drug Reports = 588
 39039, Drug Reports = 431
@@ -545,9 +525,7 @@
 21017, Drug Reports = 57
 21019, Drug Reports = 623
 21021, Drug Reports = 103
-51520, Drug Reports = 0 
 51027, Drug Reports = 161
-51530, Drug Reports = 0 
 21035, Drug Reports = 101
 21037, Drug Reports = 1015
 51031, Drug Reports = 190
@@ -567,27 +545,22 @@
 39037, Drug Reports = 203
 51053, Drug Reports = 110
 21063, Drug Reports = 53
-51600, Drug Reports = 0 
 39045, Drug Reports = 1204
 21005, Drug Reports = 136
-51515, Drug Reports = 0 
 42013, Drug Reports = 607
 51023, Drug Reports = 199
 42015, Drug Reports = 170
 51037, Drug Reports = 33
 42041, Drug Reports = 214
 42047, Drug Reports = 103
-51595, Drug Reports = 0 
 21065, Drug Reports = 31
 54009, Drug Reports = 8
 21031, Drug Reports = 66
-21039, Drug Reports = 0 
 39023, Drug Reports = 114
 54015, Drug Reports = 78
 21007, Drug Reports = 17
 51025, Drug Reports = 66
 21033, Drug Reports = 58
-51610, Drug Reports = 0 
 21067, Drug Reports = 1831
 21061, Drug Reports = 86
 51061, Drug Reports = 506
@@ -604,7 +577,6 @@
 51069, Drug Reports = 583
 21075, Drug Reports = 81
 42057, Drug Reports = 117
-51640, Drug Reports = 0 
 39053, Drug Reports = 319
 39055, Drug Reports = 82
 51071, Drug Reports = 190
@@ -665,8 +637,6 @@
 51107, Drug Reports = 996
 51109, Drug Reports = 145
 21069, Drug Reports = 66
-51620, Drug Reports = 0 
-51630, Drug Reports = 0 
 39051, Drug Reports = 118
 21079, Drug Reports = 52
 21087, Drug Reports = 29
@@ -699,7 +669,6 @@
 51111, Drug Reports = 85
 42079, Drug Reports = 1712
 42081, Drug Reports = 622
-51680, Drug Reports = 0 
 21143, Drug Reports = 21
 21151, Drug Reports = 368
 51113, Drug Reports = 41
@@ -731,8 +700,6 @@
 42085, Drug Reports = 409
 21077, Drug Reports = 48
 21123, Drug Reports = 34
-51678, Drug Reports = 0 
-51091, Drug Reports = 0 
 51103, Drug Reports = 34
 39097, Drug Reports = 417
 51115, Drug Reports = 32
@@ -762,12 +729,10 @@
 51139, Drug Reports = 277
 21191, Drug Reports = 119
 39127, Drug Reports = 259
-51730, Drug Reports = 0 
 42101, Drug Reports = 26969
 21195, Drug Reports = 390
 39131, Drug Reports = 151
 42103, Drug Reports = 185
-51735, Drug Reports = 0 
 39133, Drug Reports = 1309
 51740, Drug Reports = 12
 54055, Drug Reports = 567
@@ -799,7 +764,6 @@
 39141, Drug Reports = 772
 21205, Drug Reports = 275
 51167, Drug Reports = 297
-51775, Drug Reports = 0 
 39145, Drug Reports = 826
 51683, Drug Reports = 113
 21163, Drug Reports = 90
@@ -839,13 +803,10 @@
 21181, Drug Reports = 49
 51135, Drug Reports = 112
 54079, Drug Reports = 119
-51750, Drug Reports = 0 
 21209, Drug Reports = 80
-51720, Drug Reports = 0 
 54083, Drug Reports = 79
 21215, Drug Reports = 62
 39151, Drug Reports = 2844
-51790, Drug Reports = 0 
 42113, Drug Reports = 42
 39153, Drug Reports = 1372
 51183, Drug Reports = 68
@@ -875,15 +836,12 @@
 39169, Drug Reports = 614
 42129, Drug Reports = 1647
 21235, Drug Reports = 275
-51830, Drug Reports = 0 
 39173, Drug Reports = 723
 39175, Drug Reports = 16
 51197, Drug Reports = 495
 42133, Drug Reports = 3417
 54089, Drug Reports = 35
 42115, Drug Reports = 116
-21221, Drug Reports = 0 
-54093, Drug Reports = 0 
 54095, Drug Reports = 48
 21229, Drug Reports = 42
 42127, Drug Reports = 99
@@ -897,14 +855,12 @@
 54109, Drug Reports = 26
 21219, Drug Reports = 30
 21223, Drug Reports = 9
-51820, Drug Reports = 0 
 54107, Drug Reports = 381
 21239, Drug Reports = 40
 42131, Drug Reports = 117
 42117, Drug Reports = 126
 51199, Drug Reports = 233
 39171, Drug Reports = 12
-54105, Drug Reports = 0 
 54021, Drug Reports = 82
 54027, Drug Reports = 118
 39067, Drug Reports = 38
@@ -917,11 +873,7 @@
 54101, Drug Reports = 78
 21225, Drug Reports = 73
 54091, Drug Reports = 1
-51036, Drug Reports = 0 
-51097, Drug Reports = 0 
-21091, Drug Reports = 0 
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2012
 51001, Drug Reports = 152
 39001, Drug Reports = 434
@@ -968,7 +920,6 @@
 21043, Drug Reports = 291
 21045, Drug Reports = 138
 51540, Drug Reports = 8
-51550, Drug Reports = 0 
 42029, Drug Reports = 1499
 51041, Drug Reports = 2017
 21047, Drug Reports = 181
@@ -976,14 +927,12 @@
 42033, Drug Reports = 140
 39025, Drug Reports = 791
 39027, Drug Reports = 431
-51570, Drug Reports = 0 
 42037, Drug Reports = 408
 39029, Drug Reports = 441
 39033, Drug Reports = 412
 42039, Drug Reports = 368
 21055, Drug Reports = 22
 39035, Drug Reports = 17801
-51590, Drug Reports = 0 
 42043, Drug Reports = 2039
 21059, Drug Reports = 547
 39039, Drug Reports = 469
@@ -1009,7 +958,6 @@
 21021, Drug Reports = 120
 51520, Drug Reports = 67
 51027, Drug Reports = 217
-51530, Drug Reports = 0 
 21035, Drug Reports = 104
 21037, Drug Reports = 981
 51031, Drug Reports = 356
@@ -1032,14 +980,12 @@
 51600, Drug Reports = 43
 39045, Drug Reports = 1538
 21005, Drug Reports = 78
-51515, Drug Reports = 0 
 42013, Drug Reports = 574
 51023, Drug Reports = 172
 42015, Drug Reports = 339
 51037, Drug Reports = 83
 42041, Drug Reports = 291
 42047, Drug Reports = 109
-51595, Drug Reports = 0 
 21065, Drug Reports = 60
 54009, Drug Reports = 14
 21031, Drug Reports = 72
@@ -1049,7 +995,6 @@
 21007, Drug Reports = 11
 51025, Drug Reports = 157
 21033, Drug Reports = 111
-51610, Drug Reports = 0 
 21067, Drug Reports = 1704
 21061, Drug Reports = 54
 51061, Drug Reports = 642
@@ -1066,7 +1011,6 @@
 51069, Drug Reports = 489
 21075, Drug Reports = 89
 42057, Drug Reports = 34
-51640, Drug Reports = 0 
 39053, Drug Reports = 207
 39055, Drug Reports = 151
 51071, Drug Reports = 215
@@ -1127,7 +1071,6 @@
 51107, Drug Reports = 861
 51109, Drug Reports = 194
 21069, Drug Reports = 105
-51620, Drug Reports = 0 
 51630, Drug Reports = 6
 39051, Drug Reports = 189
 21079, Drug Reports = 56
@@ -1139,7 +1082,6 @@
 21097, Drug Reports = 105
 21103, Drug Reports = 83
 39071, Drug Reports = 549
-51670, Drug Reports = 0 
 21109, Drug Reports = 135
 21113, Drug Reports = 246
 54039, Drug Reports = 1395
@@ -1161,7 +1103,6 @@
 51111, Drug Reports = 89
 42079, Drug Reports = 1678
 42081, Drug Reports = 593
-51680, Drug Reports = 0 
 21143, Drug Reports = 28
 21151, Drug Reports = 592
 51113, Drug Reports = 43
@@ -1171,7 +1112,6 @@
 54049, Drug Reports = 543
 54051, Drug Reports = 133
 21159, Drug Reports = 41
-51690, Drug Reports = 0 
 21161, Drug Reports = 197
 54053, Drug Reports = 106
 21145, Drug Reports = 404
@@ -1180,20 +1120,17 @@
 42083, Drug Reports = 234
 21165, Drug Reports = 17
 39107, Drug Reports = 141
-42053, Drug Reports = 0 
 39069, Drug Reports = 115
 51093, Drug Reports = 216
 39087, Drug Reports = 298
 21155, Drug Reports = 132
 21157, Drug Reports = 100
-21149, Drug Reports = 0 
 51117, Drug Reports = 371
 39105, Drug Reports = 191
 21167, Drug Reports = 65
 42085, Drug Reports = 443
 21077, Drug Reports = 84
 21123, Drug Reports = 23
-51678, Drug Reports = 0 
 51091, Drug Reports = 2
 51103, Drug Reports = 44
 39097, Drug Reports = 516
@@ -1224,12 +1161,10 @@
 51139, Drug Reports = 240
 21191, Drug Reports = 105
 39127, Drug Reports = 207
-51730, Drug Reports = 0 
 42101, Drug Reports = 25279
 21195, Drug Reports = 312
 39131, Drug Reports = 90
 42103, Drug Reports = 149
-51735, Drug Reports = 0 
 39133, Drug Reports = 1468
 51740, Drug Reports = 14
 54055, Drug Reports = 452
@@ -1261,7 +1196,6 @@
 39141, Drug Reports = 528
 21205, Drug Reports = 238
 51167, Drug Reports = 378
-51775, Drug Reports = 0 
 39145, Drug Reports = 888
 51683, Drug Reports = 35
 21163, Drug Reports = 273
@@ -1301,13 +1235,10 @@
 21181, Drug Reports = 27
 51135, Drug Reports = 90
 54079, Drug Reports = 182
-51750, Drug Reports = 0 
 21209, Drug Reports = 264
-51720, Drug Reports = 0 
 54083, Drug Reports = 138
 21215, Drug Reports = 47
 39151, Drug Reports = 557
-51790, Drug Reports = 0 
 42113, Drug Reports = 23
 39153, Drug Reports = 1335
 51183, Drug Reports = 90
@@ -1337,7 +1268,6 @@
 39169, Drug Reports = 640
 42129, Drug Reports = 1634
 21235, Drug Reports = 488
-51830, Drug Reports = 0 
 39173, Drug Reports = 708
 39175, Drug Reports = 9
 51197, Drug Reports = 554
@@ -1345,8 +1275,6 @@
 54089, Drug Reports = 14
 42115, Drug Reports = 223
 21221, Drug Reports = 21
-54093, Drug Reports = 0 
-54095, Drug Reports = 0 
 21229, Drug Reports = 19
 42127, Drug Reports = 140
 54099, Drug Reports = 25
@@ -1366,7 +1294,6 @@
 42117, Drug Reports = 135
 51199, Drug Reports = 280
 39171, Drug Reports = 30
-54105, Drug Reports = 0 
 54021, Drug Reports = 19
 54027, Drug Reports = 102
 39067, Drug Reports = 35
@@ -1374,16 +1301,12 @@
 51181, Drug Reports = 16
 54041, Drug Reports = 47
 51131, Drug Reports = 88
-54071, Drug Reports = 0 
 54073, Drug Reports = 13
 54101, Drug Reports = 86
 21225, Drug Reports = 55
-54091, Drug Reports = 0 
 51036, Drug Reports = 12
 51097, Drug Reports = 77
-21091, Drug Reports = 0 
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2013
 51001, Drug Reports = 122
 39001, Drug Reports = 341
@@ -1420,7 +1343,6 @@
 39017, Drug Reports = 2894
 42019, Drug Reports = 296
 54011, Drug Reports = 523
-54013, Drug Reports = 0 
 42021, Drug Reports = 837
 42023, Drug Reports = 74
 42025, Drug Reports = 349
@@ -1505,7 +1427,6 @@
 21065, Drug Reports = 10
 54009, Drug Reports = 27
 21031, Drug Reports = 47
-21039, Drug Reports = 0 
 39023, Drug Reports = 354
 54015, Drug Reports = 31
 21007, Drug Reports = 11
@@ -1642,7 +1563,6 @@
 42083, Drug Reports = 314
 21165, Drug Reports = 16
 39107, Drug Reports = 159
-42053, Drug Reports = 0 
 39069, Drug Reports = 62
 51093, Drug Reports = 248
 39087, Drug Reports = 245
@@ -1654,9 +1574,7 @@
 21167, Drug Reports = 45
 42085, Drug Reports = 427
 21077, Drug Reports = 57
-21123, Drug Reports = 0 
 51678, Drug Reports = 40
-51091, Drug Reports = 0 
 51103, Drug Reports = 41
 39097, Drug Reports = 404
 51115, Drug Reports = 64
@@ -1717,7 +1635,6 @@
 54081, Drug Reports = 584
 39139, Drug Reports = 600
 54085, Drug Reports = 33
-54087, Drug Reports = 0 
 51163, Drug Reports = 296
 51165, Drug Reports = 646
 39141, Drug Reports = 614
@@ -1765,7 +1682,6 @@
 54079, Drug Reports = 177
 51750, Drug Reports = 212
 21209, Drug Reports = 328
-51720, Drug Reports = 0 
 54083, Drug Reports = 138
 21215, Drug Reports = 35
 39151, Drug Reports = 416
@@ -1807,8 +1723,6 @@
 54089, Drug Reports = 126
 42115, Drug Reports = 181
 21221, Drug Reports = 35
-54093, Drug Reports = 0 
-54095, Drug Reports = 0 
 21229, Drug Reports = 10
 42127, Drug Reports = 38
 54099, Drug Reports = 75
@@ -1828,7 +1742,6 @@
 42117, Drug Reports = 169
 51199, Drug Reports = 220
 39171, Drug Reports = 45
-54105, Drug Reports = 0 
 54021, Drug Reports = 73
 54027, Drug Reports = 100
 39067, Drug Reports = 54
@@ -1836,21 +1749,17 @@
 51181, Drug Reports = 12
 54041, Drug Reports = 390
 51131, Drug Reports = 62
-54071, Drug Reports = 0 
 54073, Drug Reports = 29
 54101, Drug Reports = 131
 21225, Drug Reports = 53
 54091, Drug Reports = 8
 51036, Drug Reports = 28
 51097, Drug Reports = 33
-21091, Drug Reports = 0 
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2014
 51001, Drug Reports = 167
 39001, Drug Reports = 409
 42001, Drug Reports = 277
-51510, Drug Reports = 0 
 42003, Drug Reports = 9286
 21003, Drug Reports = 98
 51007, Drug Reports = 91
@@ -1884,7 +1793,6 @@
 54011, Drug Reports = 350
 54013, Drug Reports = 16
 42021, Drug Reports = 859
-42023, Drug Reports = 0 
 42025, Drug Reports = 395
 51033, Drug Reports = 195
 21041, Drug Reports = 185
@@ -1907,7 +1815,6 @@
 42039, Drug Reports = 513
 21055, Drug Reports = 29
 39035, Drug Reports = 16812
-51590, Drug Reports = 0 
 42043, Drug Reports = 2922
 21059, Drug Reports = 672
 39039, Drug Reports = 744
@@ -1956,7 +1863,6 @@
 51600, Drug Reports = 11
 39045, Drug Reports = 1327
 21005, Drug Reports = 66
-51515, Drug Reports = 0 
 42013, Drug Reports = 768
 51023, Drug Reports = 205
 42015, Drug Reports = 229
@@ -1965,15 +1871,12 @@
 42047, Drug Reports = 131
 51595, Drug Reports = 14
 21065, Drug Reports = 99
-54009, Drug Reports = 0 
 21031, Drug Reports = 53
 21039, Drug Reports = 11
 39023, Drug Reports = 284
 54015, Drug Reports = 38
-21007, Drug Reports = 0 
 51025, Drug Reports = 88
 21033, Drug Reports = 67
-51610, Drug Reports = 0 
 21067, Drug Reports = 1589
 21061, Drug Reports = 34
 51061, Drug Reports = 404
@@ -1990,7 +1893,6 @@
 51069, Drug Reports = 566
 21075, Drug Reports = 56
 42057, Drug Reports = 48
-51640, Drug Reports = 0 
 39053, Drug Reports = 374
 39055, Drug Reports = 371
 51071, Drug Reports = 148
@@ -2095,7 +1997,6 @@
 54049, Drug Reports = 148
 54051, Drug Reports = 168
 21159, Drug Reports = 42
-51690, Drug Reports = 0 
 21161, Drug Reports = 218
 54053, Drug Reports = 38
 21145, Drug Reports = 388
@@ -2117,7 +2018,6 @@
 42085, Drug Reports = 490
 21077, Drug Reports = 74
 21123, Drug Reports = 71
-51678, Drug Reports = 0 
 51091, Drug Reports = 6
 51103, Drug Reports = 32
 39097, Drug Reports = 684
@@ -2153,13 +2053,11 @@
 21195, Drug Reports = 462
 39131, Drug Reports = 136
 42103, Drug Reports = 107
-51735, Drug Reports = 0 
 39133, Drug Reports = 2119
 51740, Drug Reports = 135
 54055, Drug Reports = 315
 39109, Drug Reports = 665
 51119, Drug Reports = 29
-21171, Drug Reports = 0 
 21173, Drug Reports = 329
 21175, Drug Reports = 12
 21179, Drug Reports = 248
@@ -2187,7 +2085,6 @@
 51167, Drug Reports = 346
 51775, Drug Reports = 10
 39145, Drug Reports = 707
-51683, Drug Reports = 0 
 21163, Drug Reports = 181
 42087, Drug Reports = 179
 54061, Drug Reports = 139
@@ -2198,7 +2095,6 @@
 51143, Drug Reports = 219
 42105, Drug Reports = 167
 39135, Drug Reports = 120
-54077, Drug Reports = 0 
 51147, Drug Reports = 231
 51149, Drug Reports = 206
 51157, Drug Reports = 30
@@ -2209,7 +2105,6 @@
 21169, Drug Reports = 34
 54059, Drug Reports = 26
 42099, Drug Reports = 378
-39137, Drug Reports = 0 
 21207, Drug Reports = 44
 39143, Drug Reports = 472
 42107, Drug Reports = 1183
@@ -2227,7 +2122,6 @@
 54079, Drug Reports = 106
 51750, Drug Reports = 7
 21209, Drug Reports = 213
-51720, Drug Reports = 0 
 54083, Drug Reports = 99
 21215, Drug Reports = 29
 39151, Drug Reports = 4027
@@ -2283,22 +2177,18 @@
 54109, Drug Reports = 9
 21219, Drug Reports = 32
 21223, Drug Reports = 75
-51820, Drug Reports = 0 
 54107, Drug Reports = 291
 21239, Drug Reports = 87
 42131, Drug Reports = 195
 42117, Drug Reports = 112
 51199, Drug Reports = 196
 39171, Drug Reports = 19
-54105, Drug Reports = 0 
-54021, Drug Reports = 0 
 54027, Drug Reports = 24
 39067, Drug Reports = 12
 21105, Drug Reports = 18
 51181, Drug Reports = 20
 54041, Drug Reports = 263
 51131, Drug Reports = 81
-54071, Drug Reports = 0 
 54073, Drug Reports = 11
 54101, Drug Reports = 121
 21225, Drug Reports = 27
@@ -2307,7 +2197,7 @@
 51097, Drug Reports = 33
 21091, Drug Reports = 37
 54043, Drug Reports = 17
-51580, Drug Reports = 0 
+
 2015
 51001, Drug Reports = 98
 39001, Drug Reports = 356
@@ -2322,7 +2212,6 @@
 39007, Drug Reports = 1419
 39009, Drug Reports = 640
 39011, Drug Reports = 236
-54001, Drug Reports = 0 
 21009, Drug Reports = 264
 21011, Drug Reports = 126
 42009, Drug Reports = 209
@@ -2344,7 +2233,6 @@
 39017, Drug Reports = 2594
 42019, Drug Reports = 379
 54011, Drug Reports = 163
-54013, Drug Reports = 0 
 42021, Drug Reports = 738
 42023, Drug Reports = 8
 42025, Drug Reports = 313
@@ -2353,8 +2241,6 @@
 39019, Drug Reports = 49
 21043, Drug Reports = 212
 21045, Drug Reports = 195
-51540, Drug Reports = 0 
-51550, Drug Reports = 0 
 42029, Drug Reports = 1599
 51041, Drug Reports = 1805
 21047, Drug Reports = 261
@@ -2362,14 +2248,12 @@
 42033, Drug Reports = 260
 39025, Drug Reports = 1052
 39027, Drug Reports = 594
-51570, Drug Reports = 0 
 42037, Drug Reports = 339
 39029, Drug Reports = 1066
 39033, Drug Reports = 530
 42039, Drug Reports = 449
 21055, Drug Reports = 30
 39035, Drug Reports = 15362
-51590, Drug Reports = 0 
 42043, Drug Reports = 2848
 21059, Drug Reports = 614
 39039, Drug Reports = 875
@@ -2395,7 +2279,6 @@
 21021, Drug Reports = 135
 51520, Drug Reports = 2
 51027, Drug Reports = 306
-51530, Drug Reports = 0 
 21035, Drug Reports = 95
 21037, Drug Reports = 1075
 51031, Drug Reports = 87
@@ -2418,14 +2301,12 @@
 51600, Drug Reports = 17
 39045, Drug Reports = 1561
 21005, Drug Reports = 38
-51515, Drug Reports = 0 
 42013, Drug Reports = 630
 51023, Drug Reports = 162
 42015, Drug Reports = 218
 51037, Drug Reports = 71
 42041, Drug Reports = 200
 42047, Drug Reports = 97
-51595, Drug Reports = 0 
 21065, Drug Reports = 27
 54009, Drug Reports = 3
 21031, Drug Reports = 48
@@ -2435,7 +2316,6 @@
 21007, Drug Reports = 25
 51025, Drug Reports = 69
 21033, Drug Reports = 97
-51610, Drug Reports = 0 
 21067, Drug Reports = 1661
 21061, Drug Reports = 55
 51061, Drug Reports = 369
@@ -2452,7 +2332,6 @@
 51069, Drug Reports = 511
 21075, Drug Reports = 49
 42057, Drug Reports = 18
-51640, Drug Reports = 0 
 39053, Drug Reports = 515
 39055, Drug Reports = 315
 51071, Drug Reports = 88
@@ -2476,7 +2355,6 @@
 39065, Drug Reports = 295
 54031, Drug Reports = 80
 54033, Drug Reports = 302
-51660, Drug Reports = 0 
 21099, Drug Reports = 70
 21101, Drug Reports = 262
 51087, Drug Reports = 1688
@@ -2514,7 +2392,6 @@
 51109, Drug Reports = 149
 21069, Drug Reports = 68
 51620, Drug Reports = 2
-51630, Drug Reports = 0 
 39051, Drug Reports = 223
 21079, Drug Reports = 17
 21087, Drug Reports = 37
@@ -2525,7 +2402,6 @@
 21097, Drug Reports = 192
 21103, Drug Reports = 86
 39071, Drug Reports = 475
-51670, Drug Reports = 0 
 21109, Drug Reports = 63
 21113, Drug Reports = 215
 54039, Drug Reports = 639
@@ -2547,7 +2423,6 @@
 51111, Drug Reports = 57
 42079, Drug Reports = 2307
 42081, Drug Reports = 527
-51680, Drug Reports = 0 
 21143, Drug Reports = 110
 21151, Drug Reports = 609
 51113, Drug Reports = 42
@@ -2579,8 +2454,6 @@
 42085, Drug Reports = 462
 21077, Drug Reports = 63
 21123, Drug Reports = 27
-51678, Drug Reports = 0 
-51091, Drug Reports = 0 
 51103, Drug Reports = 35
 39097, Drug Reports = 453
 51115, Drug Reports = 74
@@ -2610,12 +2483,10 @@
 51139, Drug Reports = 135
 21191, Drug Reports = 78
 39127, Drug Reports = 307
-51730, Drug Reports = 0 
 42101, Drug Reports = 21387
 21195, Drug Reports = 354
 39131, Drug Reports = 196
 42103, Drug Reports = 146
-51735, Drug Reports = 0 
 39133, Drug Reports = 2049
 51740, Drug Reports = 20
 54055, Drug Reports = 396
@@ -2640,7 +2511,6 @@
 51155, Drug Reports = 326
 54081, Drug Reports = 439
 39139, Drug Reports = 886
-54085, Drug Reports = 0 
 54087, Drug Reports = 42
 51163, Drug Reports = 253
 51165, Drug Reports = 476
@@ -2653,7 +2523,6 @@
 21163, Drug Reports = 115
 42087, Drug Reports = 156
 54061, Drug Reports = 10
-54063, Drug Reports = 0 
 51133, Drug Reports = 153
 21185, Drug Reports = 149
 21193, Drug Reports = 420
@@ -2687,14 +2556,9 @@
 21181, Drug Reports = 56
 51135, Drug Reports = 112
 54079, Drug Reports = 50
-51750, Drug Reports = 0 
 21209, Drug Reports = 56
-51720, Drug Reports = 0 
-54083, Drug Reports = 0 
 21215, Drug Reports = 31
 39151, Drug Reports = 3670
-51790, Drug Reports = 0 
-42113, Drug Reports = 0 
 39153, Drug Reports = 1810
 51183, Drug Reports = 71
 51185, Drug Reports = 877
@@ -2723,7 +2587,6 @@
 39169, Drug Reports = 730
 42129, Drug Reports = 1381
 21235, Drug Reports = 207
-51830, Drug Reports = 0 
 39173, Drug Reports = 804
 39175, Drug Reports = 129
 51197, Drug Reports = 611
@@ -2731,7 +2594,6 @@
 54089, Drug Reports = 9
 42115, Drug Reports = 317
 21221, Drug Reports = 50
-54093, Drug Reports = 0 
 54095, Drug Reports = 12
 21229, Drug Reports = 47
 42127, Drug Reports = 99
@@ -2742,34 +2604,26 @@
 51840, Drug Reports = 15
 51195, Drug Reports = 622
 21237, Drug Reports = 138
-54109, Drug Reports = 0 
 21219, Drug Reports = 49
 21223, Drug Reports = 51
-51820, Drug Reports = 0 
 54107, Drug Reports = 430
 21239, Drug Reports = 81
 42131, Drug Reports = 235
 42117, Drug Reports = 213
 51199, Drug Reports = 139
 39171, Drug Reports = 16
-54105, Drug Reports = 0 
 54021, Drug Reports = 72
 54027, Drug Reports = 95
 39067, Drug Reports = 63
 21105, Drug Reports = 3
-51181, Drug Reports = 0 
 54041, Drug Reports = 100
 51131, Drug Reports = 63
-54071, Drug Reports = 0 
 54073, Drug Reports = 26
 54101, Drug Reports = 42
 21225, Drug Reports = 49
-54091, Drug Reports = 0 
 51036, Drug Reports = 4
 51097, Drug Reports = 45
-21091, Drug Reports = 0 
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2016
 51001, Drug Reports = 114
 39001, Drug Reports = 365
@@ -2808,7 +2662,6 @@
 54011, Drug Reports = 226
 54013, Drug Reports = 18
 42021, Drug Reports = 721
-42023, Drug Reports = 0 
 42025, Drug Reports = 213
 51033, Drug Reports = 170
 21041, Drug Reports = 170
@@ -2855,7 +2708,6 @@
 21017, Drug Reports = 156
 21019, Drug Reports = 289
 21021, Drug Reports = 239
-51520, Drug Reports = 0 
 51027, Drug Reports = 236
 51530, Drug Reports = 6
 21035, Drug Reports = 225
@@ -2880,24 +2732,18 @@
 51600, Drug Reports = 76
 39045, Drug Reports = 1294
 21005, Drug Reports = 72
-51515, Drug Reports = 0 
 42013, Drug Reports = 499
 51023, Drug Reports = 209
 42015, Drug Reports = 219
 51037, Drug Reports = 50
 42041, Drug Reports = 103
 42047, Drug Reports = 82
-51595, Drug Reports = 0 
 21065, Drug Reports = 86
-54009, Drug Reports = 0 
 21031, Drug Reports = 87
-21039, Drug Reports = 0 
 39023, Drug Reports = 915
-54015, Drug Reports = 0 
 21007, Drug Reports = 16
 51025, Drug Reports = 135
 21033, Drug Reports = 85
-51610, Drug Reports = 0 
 21067, Drug Reports = 1325
 21061, Drug Reports = 50
 51061, Drug Reports = 296
@@ -3026,7 +2872,6 @@
 21147, Drug Reports = 69
 54047, Drug Reports = 71
 42083, Drug Reports = 292
-21165, Drug Reports = 0 
 39107, Drug Reports = 119
 42053, Drug Reports = 14
 39069, Drug Reports = 27
@@ -3041,8 +2886,6 @@
 42085, Drug Reports = 353
 21077, Drug Reports = 17
 21123, Drug Reports = 24
-51678, Drug Reports = 0 
-51091, Drug Reports = 0 
 51103, Drug Reports = 62
 39097, Drug Reports = 468
 51115, Drug Reports = 46
@@ -3077,7 +2920,6 @@
 21195, Drug Reports = 349
 39131, Drug Reports = 152
 42103, Drug Reports = 157
-51735, Drug Reports = 0 
 39133, Drug Reports = 1616
 51740, Drug Reports = 80
 54055, Drug Reports = 404
@@ -3122,7 +2964,6 @@
 51143, Drug Reports = 253
 42105, Drug Reports = 55
 39135, Drug Reports = 262
-54077, Drug Reports = 0 
 51147, Drug Reports = 158
 51149, Drug Reports = 109
 51157, Drug Reports = 9
@@ -3151,7 +2992,6 @@
 54079, Drug Reports = 25
 51750, Drug Reports = 9
 21209, Drug Reports = 185
-51720, Drug Reports = 0 
 54083, Drug Reports = 117
 21215, Drug Reports = 29
 39151, Drug Reports = 4699
@@ -3185,7 +3025,6 @@
 39169, Drug Reports = 847
 42129, Drug Reports = 1331
 21235, Drug Reports = 226
-51830, Drug Reports = 0 
 39173, Drug Reports = 607
 39175, Drug Reports = 147
 51197, Drug Reports = 492
@@ -3193,7 +3032,6 @@
 54089, Drug Reports = 4
 42115, Drug Reports = 216
 21221, Drug Reports = 32
-54093, Drug Reports = 0 
 54095, Drug Reports = 22
 21229, Drug Reports = 28
 42127, Drug Reports = 78
@@ -3207,7 +3045,6 @@
 54109, Drug Reports = 2
 21219, Drug Reports = 33
 21223, Drug Reports = 47
-51820, Drug Reports = 0 
 54107, Drug Reports = 483
 21239, Drug Reports = 90
 42131, Drug Reports = 222
@@ -3219,19 +3056,13 @@
 54027, Drug Reports = 22
 39067, Drug Reports = 49
 21105, Drug Reports = 13
-51181, Drug Reports = 0 
 54041, Drug Reports = 38
 51131, Drug Reports = 81
-54071, Drug Reports = 0 
-54073, Drug Reports = 0 
 54101, Drug Reports = 59
 21225, Drug Reports = 37
-54091, Drug Reports = 0 
-51036, Drug Reports = 0 
 51097, Drug Reports = 31
 21091, Drug Reports = 17
-54043, Drug Reports = 0 
-51580, Drug Reports = 0 
+
 2017
 51001, Drug Reports = 85
 39001, Drug Reports = 268
@@ -3257,7 +3088,6 @@
 51021, Drug Reports = 22
 21015, Drug Reports = 494
 54005, Drug Reports = 22
-21023, Drug Reports = 0 
 54007, Drug Reports = 79
 21025, Drug Reports = 49
 21027, Drug Reports = 60
@@ -3270,7 +3100,6 @@
 54011, Drug Reports = 159
 54013, Drug Reports = 5
 42021, Drug Reports = 311
-42023, Drug Reports = 0 
 42025, Drug Reports = 264
 51033, Drug Reports = 238
 21041, Drug Reports = 234
@@ -3291,7 +3120,6 @@
 39029, Drug Reports = 846
 39033, Drug Reports = 330
 42039, Drug Reports = 398
-21055, Drug Reports = 0 
 39035, Drug Reports = 22133
 51590, Drug Reports = 72
 42043, Drug Reports = 2801
@@ -3319,7 +3147,6 @@
 21021, Drug Reports = 328
 51520, Drug Reports = 49
 51027, Drug Reports = 371
-51530, Drug Reports = 0 
 21035, Drug Reports = 175
 21037, Drug Reports = 883
 51031, Drug Reports = 300
@@ -3349,13 +3176,9 @@
 51037, Drug Reports = 60
 42041, Drug Reports = 84
 42047, Drug Reports = 86
-51595, Drug Reports = 0 
 21065, Drug Reports = 121
-54009, Drug Reports = 0 
 21031, Drug Reports = 43
-21039, Drug Reports = 0 
 39023, Drug Reports = 1154
-54015, Drug Reports = 0 
 21007, Drug Reports = 25
 51025, Drug Reports = 94
 21033, Drug Reports = 76
@@ -3376,14 +3199,12 @@
 51069, Drug Reports = 512
 21075, Drug Reports = 100
 42057, Drug Reports = 16
-51640, Drug Reports = 0 
 39053, Drug Reports = 501
 39055, Drug Reports = 206
 51071, Drug Reports = 132
 51073, Drug Reports = 136
 51075, Drug Reports = 70
 21081, Drug Reports = 201
-54023, Drug Reports = 0 
 21083, Drug Reports = 306
 21085, Drug Reports = 157
 51077, Drug Reports = 200
@@ -3398,7 +3219,6 @@
 39063, Drug Reports = 799
 51085, Drug Reports = 665
 39065, Drug Reports = 191
-54031, Drug Reports = 0 
 54033, Drug Reports = 201
 51660, Drug Reports = 31
 21099, Drug Reports = 67
@@ -3483,10 +3303,8 @@
 21159, Drug Reports = 162
 51690, Drug Reports = 31
 21161, Drug Reports = 105
-54053, Drug Reports = 0 
 21145, Drug Reports = 478
 21147, Drug Reports = 112
-54047, Drug Reports = 0 
 42083, Drug Reports = 169
 21165, Drug Reports = 9
 39107, Drug Reports = 116
@@ -3503,8 +3321,6 @@
 42085, Drug Reports = 369
 21077, Drug Reports = 35
 21123, Drug Reports = 50
-51678, Drug Reports = 0 
-51091, Drug Reports = 0 
 51103, Drug Reports = 60
 39097, Drug Reports = 373
 51115, Drug Reports = 24
@@ -3539,7 +3355,6 @@
 21195, Drug Reports = 354
 39131, Drug Reports = 113
 42103, Drug Reports = 102
-51735, Drug Reports = 0 
 39133, Drug Reports = 1186
 51740, Drug Reports = 69
 54055, Drug Reports = 108
@@ -3564,7 +3379,6 @@
 51155, Drug Reports = 428
 54081, Drug Reports = 120
 39139, Drug Reports = 649
-54085, Drug Reports = 0 
 54087, Drug Reports = 2
 51163, Drug Reports = 377
 51165, Drug Reports = 651
@@ -3576,7 +3390,6 @@
 51683, Drug Reports = 2
 21163, Drug Reports = 106
 42087, Drug Reports = 201
-54061, Drug Reports = 0 
 54063, Drug Reports = 11
 51133, Drug Reports = 93
 21185, Drug Reports = 135
@@ -3584,15 +3397,12 @@
 51143, Drug Reports = 224
 42105, Drug Reports = 98
 39135, Drug Reports = 317
-54077, Drug Reports = 0 
 51147, Drug Reports = 122
 51149, Drug Reports = 147
 51157, Drug Reports = 27
 51760, Drug Reports = 369
 51770, Drug Reports = 782
-21201, Drug Reports = 0 
 21203, Drug Reports = 195
-21169, Drug Reports = 0 
 54059, Drug Reports = 8
 42099, Drug Reports = 201
 39137, Drug Reports = 21
@@ -3613,7 +3423,6 @@
 54079, Drug Reports = 15
 51750, Drug Reports = 12
 21209, Drug Reports = 114
-51720, Drug Reports = 0 
 54083, Drug Reports = 65
 21215, Drug Reports = 41
 39151, Drug Reports = 4686
@@ -3652,11 +3461,9 @@
 39175, Drug Reports = 188
 51197, Drug Reports = 440
 42133, Drug Reports = 4012
-54089, Drug Reports = 0 
 42115, Drug Reports = 249
 21221, Drug Reports = 21
 54093, Drug Reports = 4
-54095, Drug Reports = 0 
 21229, Drug Reports = 44
 42127, Drug Reports = 43
 54099, Drug Reports = 63
@@ -3667,7 +3474,6 @@
 51195, Drug Reports = 535
 21237, Drug Reports = 35
 54109, Drug Reports = 5
-21219, Drug Reports = 0 
 21223, Drug Reports = 29
 51820, Drug Reports = 44
 54107, Drug Reports = 435
@@ -3676,21 +3482,15 @@
 42117, Drug Reports = 101
 51199, Drug Reports = 228
 39171, Drug Reports = 27
-54105, Drug Reports = 0 
 54021, Drug Reports = 20
 54027, Drug Reports = 33
 39067, Drug Reports = 44
-21105, Drug Reports = 0 
 51181, Drug Reports = 17
 54041, Drug Reports = 31
 51131, Drug Reports = 31
-54071, Drug Reports = 0 
-54073, Drug Reports = 0 
 54101, Drug Reports = 46
-21225, Drug Reports = 0 
-54091, Drug Reports = 0 
 51036, Drug Reports = 7
 51097, Drug Reports = 65
 21091, Drug Reports = 14
-54043, Drug Reports = 0 
 51580, Drug Reports = 4
+

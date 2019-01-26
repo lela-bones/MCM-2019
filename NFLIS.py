@@ -31,16 +31,21 @@ def report2():
 
 #This function allows us to look at data for step one
 def report1():
-    file = open("Report1", "w")
+    file1 = open("Report1", "w")
+    file2 = open("Recovered", "w")
     for year in years:
-        file.write(str(year) + "\n")
+        file1.write(str(year) + "\n")
+        file2.write(str(year) + "\n")
         for county in counties:
             info = np.array(df.loc[(df["FIPS_Combined"] == county) & (df["YYYY"] == year), "TotalDrugReportsCounty"])
             if info.size == 0:
-                file.write(str(county) + ", Drug Reports = 0 \n")
+                file2.write(str(county) + ", Drug Reports = 0 \n")
             else:
-                file.write(str(county) + ", Drug Reports = " +  str(info[0]) + "\n")
-    file.close()
+                file1.write(str(county) + ", Drug Reports = " +  str(info[0]) + "\n")
+        file1.write("\n")
+        file2.write("\n")
+    file1.close()
+    file2.close()
 
 
 #Plotting Arguments
