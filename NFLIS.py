@@ -48,15 +48,15 @@ def report1():
     file2.close()
 
 
-#Plotting Arguments
-plot_args = [{'c': 'red', 'linestyle': '-'},
-             {'c': 'green', 'linestyle': '-'},
-             {'c': 'blue', 'linestyle': '-'},
-             {'c': 'red', 'linestyle': '--'},
-             {'c': 'green', 'linestyle': '--'},
-             {'c': 'blue', 'linestyle': '--'},
-             {'c': 'black', 'linestyle': '-'},
-             {'c': 'black', 'linestyle': '--'}]
+#Report1, but broken down by states
+def report3():
+    file = open("Report3", "w")
+    sums = 0
+    for state in states:
+        data = df.loc[df["State"]== state]
+        data = pd.Series(data["FIPS_Combined"]).unique()
+        file.write("{} Counties in {}: \n".format(data.size, state))
+        file.write(str(data) + "\n")
 
 #This is a bar graph sorts by years and states
 def bar1():
@@ -113,7 +113,8 @@ def bar4():
 
 #report1()
 #report2()
+report3()
 #bar1()
 #bar2()
-bar3()
-bar4()
+#bar3()
+#bar4()
